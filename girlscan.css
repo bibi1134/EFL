@@ -1,0 +1,19 @@
+body{background-color: #cc99ff;
+}
+body,h1,p {
+  font-family: 'Dancing Script', cursive;
+  color:#ffccff;
+}
+h1 {
+  letter-spacing: 6px
+}
+.w3-row-padding img {
+  margin-bottom: 12px
+}
+
+.jumbotron{
+  background-image: url(marbel1.jpg)
+}
+p{
+  border-style:none
+}
