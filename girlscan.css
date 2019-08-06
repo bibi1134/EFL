@@ -1,8 +1,8 @@
-body{background-color: #cc99ff;
-}
+
 body,h1,p {
-  font-family: 'Dancing Script', cursive;
+  font-family: 'Playfair Display', serif;
   color:#ffccff;
+  font-size:30px;
 }
 h1 {
   letter-spacing: 6px
@@ -16,4 +16,7 @@ h1 {
 }
 p{
   border-style:none
+}
+body {
+  background-image: url("paper.gif");
 }
